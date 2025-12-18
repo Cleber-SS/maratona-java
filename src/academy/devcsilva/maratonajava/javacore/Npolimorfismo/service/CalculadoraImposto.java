@@ -9,7 +9,7 @@ public class CalculadoraImposto {
         double imposto = computador.calcularImposto();
         System.out.println("Computador " + computador.getNome());
         System.out.println("Valor " + computador.getValor());
-        System.out.println("Importo a ser pago " + imposto);
+        System.out.println("Imposto a ser pago " + imposto);
     }
 
     public static void calcularImpostoTomate(Tomate tomate) {
