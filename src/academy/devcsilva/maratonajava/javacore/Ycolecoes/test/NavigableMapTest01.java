@@ -1,7 +1,5 @@
 package academy.devcsilva.maratonajava.javacore.Ycolecoes.test;
 
-import academy.devcsilva.maratonajava.javacore.Ycolecoes.domain.Consumidor;
-
 import java.util.Map;
 import java.util.NavigableMap;
 import java.util.TreeMap;
