@@ -18,7 +18,7 @@ public class StreamTest16 {
         System.out.println("Sum for");
         long result = 0;
         long init = System.currentTimeMillis();
-        for (long i = 1; i < num; i++) {
+        for (long i = 1; i <= num; i++) {
             result += i;
         }
         long end = System.currentTimeMillis();
